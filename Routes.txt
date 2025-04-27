@@ -1,0 +1,16 @@
+Get method : "/user/info"
+has to have token in header !!!
+Example JSON response:
+{
+  "id": 1,
+  "name": "John Doe",
+  "role": "ROLE_USER",
+  "cin": 12345678
+}
+POST method: "/auth/login"
+{
+"name":"name here",
+"cin":"132456",
+"role":"USER" OR "ADMIN" OR "HR",
+"password":"securePassword"
+}

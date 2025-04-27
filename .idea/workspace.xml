@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="642338e3-ce27-4d4f-8e21-c503e5cc5ba0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/AppUser/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/AppUser/AppUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/AppUser/AppUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Employee/AdminEmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Employee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Employee/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Employee/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Employee/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/LoadDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/LoadDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/AuthRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/CustomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/CustomFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/JwtConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/JwtConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/RegistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/RegistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/authentification/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/conge/AdminCongeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/conge/Conge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/conge/CongeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/conge/CongeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/conge/CongeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dataEmployee/AdminDataEmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dataEmployee/DataEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dataEmployee/DataEmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dataEmployee/DataEmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dataEmployee/DataEmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/document/AdminDocumentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/document/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/document/DocumentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/document/DocumentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/document/DocumentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/soldeConge/AdminSoldeCongeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/soldeConge/LeaveAccrualService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/soldeConge/SoldeConge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/soldeConge/SoldeCongeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/soldeConge/SoldeCongeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/soldeConge/SoldeCongeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/task/AdminTaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/task/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/task/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/task/TaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/task/TaskService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TpWeb" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qNo91835Hs0e6Yg0G4Ds9XpaAr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Gradle.Build demo2 (copy).executor": "Run",
+    "Gradle.Build demo2.executor": "Run",
+    "Gradle.Load Gradle Dependencies.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Demo2Application.executor": "Run",
+    "Spring Boot.Tp.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ahmed/eclipse-workspace2/demo2 (copy)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.37675726",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/demo/task" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/demo/donneeEmployee" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Tp">
+    <configuration name="Demo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="TpWeb.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Tp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="TpWeb.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Tp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="642338e3-ce27-4d4f-8e21-c503e5cc5ba0" name="Changes" comment="" />
+      <created>1734512240992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734512240992</updated>
+      <workItem from="1734512242226" duration="2079000" />
+      <workItem from="1734515427207" duration="458000" />
+      <workItem from="1734515908012" duration="48000" />
+      <workItem from="1734516105541" duration="145000" />
+      <workItem from="1734516263595" duration="452000" />
+      <workItem from="1734516724387" duration="2146000" />
+      <workItem from="1734535368282" duration="810000" />
+      <workItem from="1734889222182" duration="2609000" />
+      <workItem from="1734945853746" duration="348000" />
+      <workItem from="1734962265105" duration="1686000" />
+      <workItem from="1735118925600" duration="2666000" />
+      <workItem from="1735407786386" duration="5396000" />
+      <workItem from="1735469548273" duration="4692000" />
+      <workItem from="1735492166592" duration="2004000" />
+      <workItem from="1735494948120" duration="4181000" />
+      <workItem from="1735552916597" duration="6986000" />
+      <workItem from="1735561865201" duration="2163000" />
+      <workItem from="1735568244768" duration="1515000" />
+      <workItem from="1735637954839" duration="3960000" />
+      <workItem from="1735649557183" duration="8775000" />
+      <workItem from="1735741725690" duration="4191000" />
+      <workItem from="1735758779289" duration="1180000" />
+      <workItem from="1735823100016" duration="1400000" />
+      <workItem from="1736104951558" duration="594000" />
+      <workItem from="1736108825609" duration="1558000" />
+      <workItem from="1736154986678" duration="3373000" />
+      <workItem from="1736177127721" duration="1008000" />
+      <workItem from="1736351995038" duration="1310000" />
+      <workItem from="1736606464725" duration="46000" />
+      <workItem from="1736606576588" duration="648000" />
+      <workItem from="1736667480987" duration="293000" />
+      <workItem from="1736687432535" duration="1204000" />
+      <workItem from="1736971494050" duration="44000" />
+      <workItem from="1737964969243" duration="4564000" />
+      <workItem from="1738055514799" duration="4240000" />
+      <workItem from="1738153029037" duration="9116000" />
+      <workItem from="1738331852970" duration="108000" />
+      <workItem from="1738590355685" duration="561000" />
+      <workItem from="1738590941562" duration="179000" />
+      <workItem from="1738591348541" duration="7598000" />
+      <workItem from="1738654117424" duration="3238000" />
+      <workItem from="1738673484652" duration="6696000" />
+      <workItem from="1738687828594" duration="6266000" />
+      <workItem from="1738745112832" duration="10339000" />
+      <workItem from="1739130502469" duration="933000" />
+      <workItem from="1739203919845" duration="354000" />
+      <workItem from="1739204548595" duration="4525000" />
+      <workItem from="1739211444811" duration="1101000" />
+      <workItem from="1739215999050" duration="2401000" />
+      <workItem from="1739266291638" duration="796000" />
+      <workItem from="1739275978477" duration="5842000" />
+      <workItem from="1739284571128" duration="6703000" />
+      <workItem from="1739348421307" duration="646000" />
+      <workItem from="1739402031168" duration="94000" />
+      <workItem from="1739546660051" duration="296000" />
+      <workItem from="1739546982322" duration="968000" />
+      <workItem from="1739555158919" duration="1891000" />
+      <workItem from="1739562946063" duration="5615000" />
+      <workItem from="1739574300272" duration="2452000" />
+      <workItem from="1739644995555" duration="3476000" />
+      <workItem from="1739745376837" duration="171000" />
+      <workItem from="1739745560560" duration="4810000" />
+      <workItem from="1739777989134" duration="3318000" />
+      <workItem from="1739825523897" duration="2917000" />
+      <workItem from="1739830629830" duration="615000" />
+      <workItem from="1739833364455" duration="353000" />
+      <workItem from="1739834169975" duration="1052000" />
+      <workItem from="1739869881911" duration="447000" />
+      <workItem from="1739871459760" duration="3123000" />
+      <workItem from="1739888467740" duration="2761000" />
+      <workItem from="1739912150815" duration="1014000" />
+      <workItem from="1739953713534" duration="2000" />
+      <workItem from="1739953750261" duration="8321000" />
+      <workItem from="1740043866386" duration="2302000" />
+      <workItem from="1740735704011" duration="4481000" />
+      <workItem from="1743678525030" duration="871000" />
+      <workItem from="1743760170242" duration="4467000" />
+      <workItem from="1743788630227" duration="12044000" />
+      <workItem from="1743847674478" duration="8471000" />
+      <workItem from="1743865645327" duration="3051000" />
+      <workItem from="1743893273606" duration="2308000" />
+      <workItem from="1743933980354" duration="3453000" />
+      <workItem from="1743937674087" duration="1581000" />
+      <workItem from="1743946655147" duration="4677000" />
+      <workItem from="1744016610160" duration="7247000" />
+      <workItem from="1744033267637" duration="6322000" />
+      <workItem from="1744100275335" duration="4251000" />
+      <workItem from="1744112357798" duration="10519000" />
+      <workItem from="1744155261431" duration="283000" />
+      <workItem from="1744189663658" duration="8944000" />
+      <workItem from="1744230096555" duration="786000" />
+      <workItem from="1744269735681" duration="400000" />
+      <workItem from="1744736831111" duration="549000" />
+      <workItem from="1744737393027" duration="2310000" />
+      <workItem from="1744748284359" duration="5966000" />
+      <workItem from="1744796264970" duration="5441000" />
+      <workItem from="1744878923524" duration="179000" />
+      <workItem from="1744918745827" duration="8562000" />
+      <workItem from="1744964172776" duration="2605000" />
+      <workItem from="1745059098264" duration="427000" />
+      <workItem from="1745424472522" duration="722000" />
+      <workItem from="1745499447099" duration="8791000" />
+      <workItem from="1745540033773" duration="3734000" />
+      <workItem from="1745688577861" duration="1216000" />
+      <workItem from="1745693106229" duration="5878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
